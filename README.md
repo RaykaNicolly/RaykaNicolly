@@ -7,7 +7,7 @@
   <a href="https://github.com/RaykaNicolly">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RaykaNicolly&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
     <img height="171em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaykaNicolly&layout=compact&langs_count=16&theme=dracula"/>
-    <img align="right" alt="Yukari gif" width="250" src="assets/yuyushiki-yukari-hinata.gif"/>
+    <img align="right" alt="Yukari gif" src="assets/yuyushiki-yukari-hinata.gif"/>
   </a>
 </div>
 
