@@ -1,8 +1,8 @@
-## 𝙾𝚒𝚎! 𝙴𝚞 𝚜𝚘𝚞 𝚊 𝚁𝚊𝚢𝚔𝚊 💭
+## ⊹ ࣪ ˖ 𝙾𝚒𝚎! 𝙴𝚞 𝚜𝚘𝚞 𝚊 𝚁𝚊𝚢𝚔𝚊 ⋆.˚ 💭
 
-- 🫧 
-- 💗 𝙿𝚛𝚘𝚌𝚞𝚛𝚘 𝚊𝚓𝚞𝚍𝚊 𝚎𝚖 𝚌𝚘𝚖𝚘 𝚖𝚎 𝚊𝚙𝚛𝚒𝚖𝚘𝚛𝚊𝚛 𝚎 𝚎𝚗𝚝𝚛𝚊𝚛 𝚗𝚊 𝚊́𝚛𝚎𝚊 𝚍𝚎 𝙵𝚛𝚘𝚗𝚝-𝙴𝚗𝚍
-- 🌸 𝙴𝚕𝚊/𝙳𝚎𝚕𝚊
+- 🫧 𝙰𝚝𝚞𝚊𝚕𝚖𝚎𝚗𝚝𝚎 𝚎𝚜𝚝𝚘𝚞 𝚎𝚜𝚝𝚞𝚍𝚊𝚗𝚍𝚘 𝙹𝚊𝚟𝚊𝚂𝚌𝚛𝚒𝚙𝚝 ˎˊ˗
+- 💗 𝙿𝚛𝚘𝚌𝚞𝚛𝚘 𝚊𝚓𝚞𝚍𝚊 𝚎𝚖 𝚌𝚘𝚖𝚘 𝚖𝚎 𝚊𝚙𝚛𝚒𝚖𝚘𝚛𝚊𝚛 𝚎 𝚎𝚗𝚝𝚛𝚊𝚛 𝚗𝚊 𝚊́𝚛𝚎𝚊 𝚍𝚎 𝙵𝚛𝚘𝚗𝚝-𝙴𝚗𝚍 𓂃✍︎
+- 🌸 𝙴𝚕𝚊/𝙳𝚎𝚕𝚊 .ᐟ
 <div>
   <a href="https://github.com/RaykaNicolly">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RaykaNicolly&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
