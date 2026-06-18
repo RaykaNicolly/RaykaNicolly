@@ -1,8 +1,8 @@
-## Oie! Eu sou a Rayka 💭
+## 𝙾𝚒𝚎! 𝙴𝚞 𝚜𝚘𝚞 𝚊 𝚁𝚊𝚢𝚔𝚊 💭
 
-- 🫧 Atualmente estou estudando JavaScript
-- 💗 Procuro ajuda em como me aprimorar e entrar na área de Front-End
-- 🌸 Ela/Dela
+- 🫧 
+- 💗 𝙿𝚛𝚘𝚌𝚞𝚛𝚘 𝚊𝚓𝚞𝚍𝚊 𝚎𝚖 𝚌𝚘𝚖𝚘 𝚖𝚎 𝚊𝚙𝚛𝚒𝚖𝚘𝚛𝚊𝚛 𝚎 𝚎𝚗𝚝𝚛𝚊𝚛 𝚗𝚊 𝚊́𝚛𝚎𝚊 𝚍𝚎 𝙵𝚛𝚘𝚗𝚝-𝙴𝚗𝚍
+- 🌸 𝙴𝚕𝚊/𝙳𝚎𝚕𝚊
 <div>
   <a href="https://github.com/RaykaNicolly">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RaykaNicolly&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -10,7 +10,7 @@
   </a>
 </div>
 
-<img align="right" width="125" alt="Image" src="https://github.com/user-attachments/assets/729410a9-9c3e-4e9e-a080-e16f8a7cbcc6" />
+<img align="right" width="200" alt="Image" src="https://github.com/user-attachments/assets/729410a9-9c3e-4e9e-a080-e16f8a7cbcc6" />
 
 ##
 
@@ -22,8 +22,8 @@
 
 ##
 
-<picture align="center">
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RaykaNicolly/RaykaNicolly/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RaykaNicolly/RaykaNicolly/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/RaykaNicolly/RaykaNicolly/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RaykaNicolly/RaykaNicolly/output/github-contribution-grid-snake.svg">
+  <img align="left" width="78%" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/RaykaNicolly/RaykaNicolly/output/github-contribution-grid-snake.svg">
 </picture>
