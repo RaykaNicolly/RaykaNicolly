@@ -10,9 +10,7 @@
   </a>
 </div>
 
-<p align="right">
-  <img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/79305787-ea87-4b4a-bfe0-2c916ed8512e" />
-</p>
+<img align="right" width="125" alt="Image" src="https://github.com/user-attachments/assets/79305787-ea87-4b4a-bfe0-2c916ed8512e" />
 
 ##
 
